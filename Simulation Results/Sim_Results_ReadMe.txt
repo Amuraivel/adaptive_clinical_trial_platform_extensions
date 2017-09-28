@@ -6,4 +6,4 @@ simresults_mmddyy:  contains the xtable formatted output included in the manuscr
 
 simresults_futility_mmddyy:  similar to simresults_mmddyy, but for scenarios which incorporate a posterior probability futility boundary
 
-simresults_constant, simresults_varying:  the raw output from simulations, primarily of use to create the barplot figures in the "Figures_Code.R" file
+simresults_constant, simresults_varying:  the raw output from simulations, primarily of use to create the barplot figures in the "Figures_Code.R" file (NOTE: due to size restrictions in GitHub, files had to be broken into "_part1" and "_part2" and will need to be merged with the rbind function in R)
